@@ -8,6 +8,6 @@
 
 等等
 
-<img src="https://github.com/happylishang/DragScrollDetailsLayout/blob/master/video/scrollview%2Bviewpager.gif" width=300></img> 
-<img src="https://github.com/happylishang/DragScrollDetailsLayout/blob/master/video/scrollview%2Bfragmenttabhost.gif" width=300></img>
-<img src="https://github.com/happylishang/DragScrollDetailsLayout/blob/master/video/scrollview%2Bwebview.gif" width=300></img>
+<img src="https://github.com/happylishang/FlingHoverDetailsLayout/blob/master/video/scrollview%2Bviewpager.gif" width=300></img> 
+<img src="https://github.com/happylishang/FlingHoverDetailsLayout/blob/master/video/scrollview%2Bfragmenttabhost.gif" width=300></img>
+<img src="https://github.com/happylishang/FlingHoverDetailsLayout/blob/master/video/scrollview%2Bwebview.gif" width=300></img>
