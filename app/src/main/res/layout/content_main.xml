@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                tools:context=".activity.MainActivity"
+                tools:showIn="@layout/activity_main">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/sliding_tabhost"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="FragmentTabHostDrag"/>
+
+            <Button
+                android:id="@+id/sliding_viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ViewPagerDrag"/>
+
+            <Button
+                android:id="@+id/sliding_webivew"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="WebviewDrag"/>
+
+            <Button
+                android:id="@+id/sliding_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ListViewDrag"/>
+
+            <Button
+                android:id="@+id/sliding_webview_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="WebViewList"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
